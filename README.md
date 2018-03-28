@@ -1,4 +1,4 @@
-# GirlsGetGeeky
+# :ribbon: GirlsGetGeeky :ribbon:
 GirlsGetGeeky is a project that addresses the following issues:
 - Poor internet  hindering the ability for beginners to access good courses with solutions to common problems.
 - Minute number of ladies in tech and STEM in general, in Kenya and other African countries. A large number of those who take a technology course in the University end up taking a job parallel to tech. 
