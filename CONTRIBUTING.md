@@ -1,13 +1,14 @@
 # Contributing
 :sparkles: Thank you for considering to contribute on this project :sparkles:  
-Have you checked out our [code of conduct?](CODE_OF_CONDUCT.md) All contributors should adhere to the guidelines outlined here.
-We are building an offline course written using markdowns. These markdowns will give someone all that is required 
-We welcome developers who have experience in Ruby on Rails as this are the main languages used in the development of this offline course now.  
-We also welcome suggestions on how to better our content and how to do something in a better way.  
+Have you checked out our [code of conduct?](CODE_OF_CONDUCT.md) All contributors should adhere to the guidelines outlined here.  
+We are building an offline course written using markdowns. These markdowns will give someone all that is required to continue learning the programming language at hand, offline. As of now, the offline course in development is for Ruby on Rails.  
+We have two types of contributors. 
+1. Contributors giving thoughts on how we can improve this course or how what we should include in our content or any other thing that can not be added as an issue. We want this project to be as open as possible. And so any thoughts are welcome and will be put to consideration. We have a google doc dedicated to this find it [here](https://docs.google.com/document/d/1xGCUERBpS2WQPe8DUZQCEolvKUmCGRQy2D9E5A4waO0/edit?usp=sharing)
+2. Contributors who take up issues and contribute to the development of the course. For now, these contributors should have skills in:  
+ `Ruby on Rails`  
+ `Markdown` [Here is a cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to perfect your markdown skills or get started.
 
-You do not need to have experience in Ruby or Rails to contribute on this. We have a [google doc](https://docs.google.com/document/d/1xGCUERBpS2WQPe8DUZQCEolvKUmCGRQy2D9E5A4waO0/edit?usp=sharing) for this
-It does not matter your experience there is issues for everyone based on your skills and experience.  
-As of now, the offline course in development is Ruby on Rails.
+ However not all issues require experience in Ruby on Rails. You can check the issues and see if there is anything you can contribute on.
 
 ## Getting Started
 To get started look for an issue to work on. We use the fork-and-pull Git workflow
@@ -43,7 +44,3 @@ If you come across a bug add it on the issues and talk to any of the project mai
 
 ## Communication
 We have a [slack channel](https://getgeeky.slack.com) where all communications are held but if its a conversation about an issue leave a comment on the issue's trail.  
-
-
-
-
