@@ -11,8 +11,11 @@ We are currently building an offline study course for Ruby. After the Ruby cours
 We will build these courses and instructions in markdown files.
 
 ## Contribution
-We :blue_heart: new contributors. There are many ways to contribute.  
-[Here](CONTRIBUTING.md) is our contribution guidelines to get you started
+We :blue_heart: new contributors. There are many ways to contribute you do not have to necessarily even write code.  
+[Here](CONTRIBUTING.md) is our contribution guidelines to get you started  
+When you contribute to this project, you will get recognition as one of our contributor, a big thank you and an applaud on twitter. 
+With the `storytelling` tickets available you do not have to write code, share your experience and opinions and help another
+developer starting out get motivated, point him/her to the right direction or just some heads-up and you will be recognized as a contributor. 
 
 ## Participation Guidelines
 This project adheres to a code of conduct. By participating, you are expected to uphold this code.  
