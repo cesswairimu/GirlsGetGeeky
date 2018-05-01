@@ -2,9 +2,12 @@
 :sparkles: Thank you for considering to contribute on this project :sparkles:  
 Have you checked out our [code of conduct?](CODE_OF_CONDUCT.md) All contributors should adhere to the guidelines outlined here.  
 We are building an offline course written using markdowns. These markdowns will give someone all that is required to continue learning the programming language at hand, offline. As of now, the offline course in development is for Ruby on Rails.  
-We have two types of contributors. 
-1. Contributors giving thoughts on how we can improve this course or how what we should include in our content or any other thing that can not be added as an issue. We want this project to be as open as possible. And so any thoughts are welcome and will be put to consideration. We have a google doc dedicated to this find it [here](https://docs.google.com/document/d/1xGCUERBpS2WQPe8DUZQCEolvKUmCGRQy2D9E5A4waO0/edit?usp=sharing)
-2. Contributors who take up issues and contribute to the development of the course. For now, these contributors should have skills in:  
+We have three types of contributors. 
+1. Contributors sharing their experience with Ruby on Rails. Tell us about your challenges and how you overcame them,
+tutorials that worked for you, dos and don'ts in Rails or Ruby. For these, look for an issue with a label `storytelling` and add a comment as
+a contribution to the issue.
+2. Contributors giving thoughts on how we can improve this course, code examples for our course, how what we should include in our content or any other thing that can not be added as an issue. We want this project to be as open as possible. And so any thoughts are welcome and will be put to consideration. We have a google doc dedicated to this find it [here](https://docs.google.com/document/d/1xGCUERBpS2WQPe8DUZQCEolvKUmCGRQy2D9E5A4waO0/edit?usp=sharing)
+3. Contributors contributing to the development of the course. For now, these contributors should have skills in:  
  `Ruby on Rails`  
  `Markdown` [Here is a cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to perfect your markdown skills or get started.
 
